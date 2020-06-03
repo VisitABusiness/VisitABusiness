@@ -6,25 +6,6 @@ Watch the video to "see what you get" [`Visit a Business.mp4`](https://github.co
 
 To start the deployment, download the [`Solution deployment.docx`](https://github.com/VisitABusiness/VisitABusiness/blob/master/Solution%20Deployment.docx) and follow the instructions.
 
-## **Table of Content**
-
-
-[**Visit a Business solution package** 3](#_Toc41596400)
-
-[**Objective and design** 3](#_Toc41596401)
-
-[**Visit a Business App Purpose** 3](#_Toc41596402)
-
-[**Visit a Business applications** 4](#_Toc41596403)
-
-[Branch Admin app 4](#_Toc41596404)
-
-[Booking app 4](#_Toc41596405)
-
-[Branch app 5](#_Toc41596406)
-
-[Power Portal 5](#_Toc41596407)
-
 ## **Visit a Business solution package**
 
 The solution is provided as a template in the form of:
