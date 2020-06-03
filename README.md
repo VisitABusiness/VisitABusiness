@@ -6,6 +6,10 @@ Watch the video to "see what you get" [`Visit a Business.mp4`](https://github.co
 
 To start the deployment, download the [`Solution deployment.docx`](https://github.com/VisitABusiness/VisitABusiness/blob/master/Solution%20Deployment.docx) and follow the instructions.
 
+Important note(s):
+-The Portal is only supported in English
+
+
 ## **Visit a Business solution package**
 
 The solution is provided as a template in the form of:
