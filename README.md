@@ -4,8 +4,6 @@
 
 Watch the video to "see what you get" [`Visit a Business.mp4`](https://github.com/VisitABusiness/VisitABusiness/blob/master/Visit%20a%20Business%20V3.mp4)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nITOGff2Yt0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 To start the deployment, download the [`Solution deployment.docx`](https://github.com/VisitABusiness/VisitABusiness/blob/master/Solution%20Deployment.docx) and follow the instructions.
 
 Important note(s):
