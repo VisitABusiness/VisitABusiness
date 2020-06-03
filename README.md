@@ -4,6 +4,9 @@
 
 Watch the video to "see what you get" {`Visit a Business.mp4`](https://github.com/VisitABusiness/VisitABusiness/blob/master/Visit%20a%20Business%20V3.mp4)
 
+<a href="https://github.com/VisitABusiness/VisitABusiness/blob/master/Visit%20a%20Business%20V3.mp4" title="Visit a Business">
+
+
 To start the deployment, download the [`Solution deployment.docx`](https://github.com/VisitABusiness/VisitABusiness/blob/master/Solution%20Deployment.docx) and follow the instructions.
 
 ## **Table of Content**
