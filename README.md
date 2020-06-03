@@ -4,6 +4,8 @@
 
 May 2020
 
+To start the deployment, download the [`Solution deployment.docx`](https://github.com/VisitABusiness/VisitABusiness/blob/master/Solution%20Deployment.docx) and follow the instructions.
+
 ## **Table of Content**
 
 
