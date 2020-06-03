@@ -6,8 +6,6 @@ May 2020
 
 ## **Table of Content**
 
-#
-## **s**
 
 [**Visit a Business solution package** 3](#_Toc41596400)
 
