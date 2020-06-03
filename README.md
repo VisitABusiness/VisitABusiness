@@ -4,8 +4,6 @@
 
 Watch the video to "see what you get" [`Visit a Business.mp4`](https://github.com/VisitABusiness/VisitABusiness/blob/master/Visit%20a%20Business%20V3.mp4)
 
-<iframe src="https://github.com/VisitABusiness/VisitABusiness/blob/master/Visit%20a%20Business%20V3.mp4" frameborder="0"allowfullscreen>
-
 To start the deployment, download the [`Solution deployment.docx`](https://github.com/VisitABusiness/VisitABusiness/blob/master/Solution%20Deployment.docx) and follow the instructions.
 
 ## **Visit a Business solution package**
