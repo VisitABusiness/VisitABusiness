@@ -66,22 +66,14 @@ The application is implemented as a series of apps on the Microsoft Power Platfo
 - Allow administration of the system
 - Allow branch managers to set up their time slots for their branch
 
-![](RackMultipart20200603-4-qm8fib_html_afaab174cfe0b1bf.png)
-
 ### Booking app
 
 - Allow employee(s) of a business to book an appointment/timeslot on behalf of their customer
-
-![](RackMultipart20200603-4-qm8fib_html_53c2acb3408283fd.png)
 
 ### Branch app
 
 - Allow customers to book an appointment/timeslot online at a business
 
-![](RackMultipart20200603-4-qm8fib_html_7dabd80b818322fb.png)
-
 ### Power Portal
 
 - Allow customers to book an appointment/timeslot online at a business
-
-![](RackMultipart20200603-4-qm8fib_html_2589ceeccce8804.png)
